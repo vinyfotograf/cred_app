@@ -1,4 +1,4 @@
-<h1>Instructions for running the application<h1>
+<h1>Welcome to Cred_API<h1>
 
 <h3>Here is a sample of project created with flask api</h3>
 
@@ -13,6 +13,15 @@
 
 <p>To store the transaction, Flask-Caching was used<p>
 <a href="https://flask-caching.readthedocs.io/en/latest/" >More<a>
+
+`\venv\Scripts\activate`
+
+`cd cred_api\run.py`
+
+
+
+
+
 
 
 
