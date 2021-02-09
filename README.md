@@ -11,12 +11,14 @@
     <li>When happens two transactions in the same 2 minutes: doubled-transactions</li>
 </ul>
 
-<p>To store the transaction, <a href="https://flask-caching.readthedocs.io/en/latest/" >Flask-Cahing<a> was used<p> 
+<p>To store the transaction, <a href="https://flask-caching.readthedocs.io/en/latest/" >Flask-Cahing<a> was used</p>
 
-This project uses <a href="https://pypi.org/project/virtualenv/">virtualenv</a> for virtual environment management.
+<p>This project uses <a href="https://pypi.org/project/virtualenv/">virtualenv</a> for virtual environment management.</p>
+
 `\venv\Scripts\activate`
 
 <p>Running</p>
+
 `cd cred_api\run.py`
 
 <h2>For the application test, the </a href="https://www.postman.com/downloads/"> Postman</a> was used</h2>
